@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lifung/static/css/main.db798329.css",
+    "main.js": "/lifung/static/js/main.60af6e16.js",
+    "static/js/787.54d39593.chunk.js": "/lifung/static/js/787.54d39593.chunk.js",
+    "index.html": "/lifung/index.html",
+    "main.db798329.css.map": "/lifung/static/css/main.db798329.css.map",
+    "main.60af6e16.js.map": "/lifung/static/js/main.60af6e16.js.map",
+    "787.54d39593.chunk.js.map": "/lifung/static/js/787.54d39593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.60af6e16.js"
+  ]
+}
